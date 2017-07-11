@@ -1,6 +1,6 @@
-# three-starter
+# ar-starter
 
-A minimal boilerplate for Three.js in ES6.
+A minimal boilerplate for AR on the web with AR.js and Three.js.
 
 ## Usage
 

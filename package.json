@@ -1,7 +1,7 @@
 {
-  "name": "three-starter",
+  "name": "ar-starter",
   "version": "1.0.0",
-  "description": "A minimal boilerplate for Three.js in ES6.",
+  "description": "A minimal boilerplate for AR on the web with AR.js and Three.js.",
   "main": "index.js",
   "scripts": {
     "run": "webpack-dev-server",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timstruthoff/three-starter.git"
+    "url": "git+https://github.com/timstruthoff/ar-starter.git"
   },
   "author": "Tim Struthoff",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/timstruthoff/three-starter/issues"
+    "url": "https://github.com/timstruthoff/ar-starter/issues"
   },
-  "homepage": "https://github.com/timstruthoff/three-starter#readme",
+  "homepage": "https://github.com/timstruthoff/ar-starter#readme",
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
