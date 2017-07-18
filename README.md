@@ -10,7 +10,7 @@ Build for production:
 `npm build`
 
 Run in development mode:
-`npm run`
+`npm run dev`
 
 
 Inspired by Armand Biteau's [Three.js ES6 boilerplate](https://github.com/ArmandBiteau/threejs-es6-boilerplate).
